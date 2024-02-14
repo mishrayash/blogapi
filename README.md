@@ -17,16 +17,12 @@ Api to GET, POST Progress of a lerner on a blog.
   
 ### Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository/backend
+1. Clone the repository
 2. npm install
 3. Create a .env file in the backend directory with the following content:
 
    ```bash
-   PORT=3001
+   
    MONGODB_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
 
