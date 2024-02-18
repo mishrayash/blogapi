@@ -36,10 +36,6 @@ Api to GET, POST Progress of a lerner on a blog.
 
 ![Screenshot (116)](https://github.com/mishrayash/blogapi/assets/80852441/7be45e66-a8c4-4ae5-862e-0b1bcfb9b0db)
 
-![Screenshot (120)](https://github.com/mishrayash/blogapi/assets/80852441/1fbe6875-bbe2-44cb-af1b-1aac6c66b26b)
-
-![Screenshot (121)](https://github.com/mishrayash/blogapi/assets/80852441/ba8b2547-d900-4952-bf4b-cd58faca0e78)
-
 ![Screenshot (123)](https://github.com/mishrayash/blogapi/assets/80852441/a81a14ba-6e25-4f94-a201-fe830f0389ab)
 
 ![Screenshot (124)](https://github.com/mishrayash/blogapi/assets/80852441/055e4e37-45e6-4db5-9585-b62c75278df5)
